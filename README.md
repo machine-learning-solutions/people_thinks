@@ -22,7 +22,7 @@ Natural Language processing study about collecting Facebook comments data from m
 Clone this repository to your local machine.
 
 ```pythoon
-$ git clone https://github.com/solutions-machine-learning/people_thinks.git
+$ git clone https://github.com/machine-learning-solutions/people_thinks.git
 ```
 
 Once downloaded, activate your virtual environment and run by
